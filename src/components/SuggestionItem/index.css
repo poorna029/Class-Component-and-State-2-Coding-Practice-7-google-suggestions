@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.liItem {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+.para {
+  list-style-type: none;
+  font-size: 50px;
+  width: 70%;
+}
+.arrow {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.arrows {
+  width: 15px;
+  height: 15px;
+}
+.button{
+     width: 15px;
+  height: 15px;
+}
+}
